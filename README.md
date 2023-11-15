@@ -19,6 +19,6 @@
 
    ./hsh
 
-#Authors
+## Authors
 
-[Ipfani Muleya]
+[Ipfani Muleya](https://github.com/IpfaniMuleya/)
